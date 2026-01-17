@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jobify
 
 ## Create New Next.js Project
@@ -3252,3 +3253,6 @@ export default ButtonContainer;
 ```
 
 ## THE END
+=======
+# jobify
+>>>>>>> 39e6719ade6df191cc622334083e4066e40b8973
